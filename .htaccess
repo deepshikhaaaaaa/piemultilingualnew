@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/kshopinn/delhi.kshopinn.com/piemultilingual"
+PassengerBaseURI "/piemultilingual"
+PassengerNodejs "/home/kshopinn/nodevenv/delhi.kshopinn.com/piemultilingual/16/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
